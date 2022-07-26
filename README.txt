@@ -4,7 +4,7 @@ to start,
 
 go to this folder ;
 
-CUsersyour pc nameAppDataLocalRobloxVersionsversion-9045f70ea522489ccontentsounds
+C:\Users\yourpcname\AppData\Local\Roblox\Versions\version-9045f70ea522489c\content\sounds
 
 delete the ouch.ogg file ;
 
